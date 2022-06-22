@@ -1,0 +1,12 @@
+.stats{
+    display: flex;
+    justify-content: center;
+}
+
+.stats div{
+    margin: 5px 10px;
+}
+
+.stats span{
+    font-weight: 600;
+}

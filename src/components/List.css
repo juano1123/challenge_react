@@ -1,0 +1,26 @@
+.list {
+    box-shadow: 0 1px 1px 0 rgba(60, 64, 67, .08), 0 1px 3px 1px rgba(60, 64, 67, .16);
+    padding: 10px;
+    margin: 20px auto;
+    background-color: white;
+    width: 350px;
+    height: auto;
+}
+
+.itemList{
+    text-align: left;
+    padding: 5px;
+    font-weight: 600;
+}
+
+.link{
+    margin: 20px auto;
+    text-align: center;
+}
+
+.details{
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    font-size: 12px;
+}
